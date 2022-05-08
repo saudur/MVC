@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nama": "nasi goreng ",
+    "deskripsi": "nasi goreng + bawang + paha ayam + tomat dan ketimun + telur",
+    "origin": "Depok"
+  },
+  {
+    "id": 2,
+    "nama": "sayur bayam",
+    "deskripsi": "nasi putih + sayur bayam dan jagung",
+    "origin": "Bekasi"
+  },
+  {
+    "id": 3,
+    "nama": "tumis kangkung",
+    "deskripsi": "nasi + tumis kangkung + tempe",
+    "origin": "Bogor"
+  },
+  {
+    "id": 4,
+    "nama": "gulai",
+    "deskripsi": "Ini terbuat dari sapi",
+    "origin": "aceh"
+  }
+]

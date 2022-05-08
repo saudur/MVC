@@ -1,0 +1,14 @@
+[
+  {
+    "id": 2,
+    "nama": "sayur bayam",
+    "deskripsi": "nasi putih + sayur bayam dan jagung",
+    "origin": "Bekasi"
+  },
+  {
+    "id": 3,
+    "nama": "tumis kangkung",
+    "deskripsi": "nasi + tumis kangkung + tempe",
+    "origin": "Bogor"
+  }
+]
